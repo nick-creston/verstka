@@ -1,12 +1,18 @@
+body {
+    font-size: 22px;
+    line-height: 34px;
+}
 header, nav {
     background: #FD739C;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
 }
+header {
+    padding:100px 0 50px;
+}
 h1, h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
-body {
-    font-size: 22px;
-    line-height: 34px;
+#whoami {
+    padding-top: 50px
 }
